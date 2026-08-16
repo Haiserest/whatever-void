@@ -1,0 +1,10 @@
+.documentPdf-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+}
+
+.documentPdf-react-pdf {
+  height: 1000px;
+}

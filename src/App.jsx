@@ -1,7 +1,12 @@
+import SandboxPage from "./pages/sandbox/sandbox";
+
 function App() {
 
   return (
-    <div>app.js</div>
+    <div>
+      <h1>My App</h1>
+      <SandboxPage />
+    </div>
   );
 }
 
