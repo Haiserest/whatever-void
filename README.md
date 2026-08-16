@@ -20,3 +20,13 @@ If you are developing a production application, we recommend using TypeScript wi
 ---
 
 Node: 24
+
+---
+
+step implement -> prod
+
+`yarn deploy` after merge to main branch
+
+---
+
+https://haiserest.github.io/whatever-void-web-page/
